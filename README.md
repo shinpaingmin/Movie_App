@@ -1,4 +1,4 @@
-# Redux for state management
+# Redux for State Management
 # API from The Movie Database
 # Api calls
 https://api.themoviedb.org/3/movie/popular?api_key=generate_your_api_key 
