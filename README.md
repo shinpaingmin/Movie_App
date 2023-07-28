@@ -1,4 +1,5 @@
-
+# Redux for state management
+# API from The Movie Database
 # Api calls
 https://api.themoviedb.org/3/movie/popular?api_key=generate_your_api_key 
 
@@ -7,8 +8,11 @@ https://image.tmdb.org/t/p/w500/Movie_Path
 https://api.themoviedb.org/3/movie/{movie_id}?api_key=generate_your_api_key 
 
 https://api.themoviedb.org/3/search/movie?query=searchMovie&api_key=generate_your_api_key
-# How I created this 
-1. Installed Flowbite & Tailwind
+# How I created this app
+1. Installed Flowbite & Tailwind, Bootstrap, react-icons, fontawesome, axios
+2. Used different hooks (useEffect, useRef), Redux for state management,
+    react-router, api from TMDB
+3. This project was structured by using different components.
 
 # Getting Started with Create React App
 
