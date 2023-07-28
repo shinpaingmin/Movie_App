@@ -1,3 +1,15 @@
+
+# Api calls
+https://api.themoviedb.org/3/movie/popular?api_key=generate_your_api_key 
+
+https://image.tmdb.org/t/p/w500/Movie_Path
+
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=generate_your_api_key 
+
+https://api.themoviedb.org/3/search/movie?query=searchMovie&api_key=generate_your_api_key
+# How I created this 
+1. Installed Flowbite & Tailwind
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
