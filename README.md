@@ -1,5 +1,9 @@
-# Redux for State Management
-# API from The Movie Database
+# Project Showcase
+
+![screencapture-shinpaingmin-movie-app-netlify-app-2023-10-28-20_34_48](https://github.com/shinpaingmin/Today_Weather/assets/103930442/b3ec1af2-96b2-4171-b887-b01f4c117bc9)
+
+## Redux for State Management
+## API from The Movie Database
 # Api calls
 https://api.themoviedb.org/3/movie/popular?api_key=generate_your_api_key 
 
